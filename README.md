@@ -43,4 +43,8 @@
   <a href="https://tr.pinterest.com/axeprime91/" target="_blank">
 <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
 </a>
+</a>
+  <a href="https://www.instagram.com/great_alhazen/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-%23E60023.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
   
